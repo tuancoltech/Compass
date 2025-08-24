@@ -69,6 +69,15 @@
         </Preference>
 
         <Preference
+                app:key="modifications"
+                app:title="@string/modifications"
+                app:summary="@string/modifications_name">
+            <intent
+                    android:action="android.intent.action.VIEW"
+                    android:data="mailto:tuancoltech@gmail.com" />
+        </Preference>
+
+        <Preference
                 app:key="license"
                 app:title="@string/license"
                 app:summary="@string/license_name">
@@ -88,7 +97,7 @@
                 app:summary="@string/source_code_name">
             <intent
                     android:action="android.intent.action.VIEW"
-                    android:data="https://github.com/Kr0oked/Compass" />
+                    android:data="https://github.com/tuancoltech/Compass" />
         </Preference>
 
         <Preference

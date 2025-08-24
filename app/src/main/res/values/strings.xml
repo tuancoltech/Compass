@@ -44,6 +44,7 @@
     <string name="night_mode_yes">Dark</string>
     <string name="about">About</string>
     <string name="author">Author</string>
+    <string name="modifications">Modifications © 2025</string>
     <string name="license">License</string>
     <string name="third_party_licenses">Third-party licenses</string>
     <string name="third_party_licenses_summary">Licenses of included open source libraries</string>
@@ -56,6 +57,7 @@
     <string name="source_code_name" translatable="false">GitHub</string>
     <string name="license_name" translatable="false">GNU GPLv3</string>
     <string name="author_name" translatable="false">Philipp Bobek</string>
+    <string name="modifications_name" translatable="false">Huy Tuan Nguyen</string>
     <string name="zero_degrees" translatable="false">0°</string>
     <string name="degrees" translatable="false">%1$d°</string>
     <string name="degree_0_text" translatable="false">0</string>
