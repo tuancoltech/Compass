@@ -28,7 +28,7 @@
             android:layout_height="match_parent"
             android:padding="@dimen/root_layout_padding">
 
-        <com.bobek.compass.view.CompassView
+        <com.vne.compass.view.CompassView
                 android:id="@+id/compass"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -150,11 +150,11 @@
 
     <data>
 
-        <import type="com.bobek.compass.model.LocationStatus" />
+        <import type="com.vne.compass.model.LocationStatus" />
 
         <variable
                 name="model"
-                type="com.bobek.compass.view.CompassViewModel" />
+                type="com.vne.compass.view.CompassViewModel" />
     </data>
 
 </layout>
